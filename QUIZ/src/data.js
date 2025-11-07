@@ -1,0 +1,148 @@
+export const questionsData = [
+  {
+    id: 1,
+    question: "Which planet is known as the Red Planet?",
+    options: ["Earth", "Mars", "Venus", "Jupiter"],
+    correctAnswer: "Mars",
+  },
+  {
+    id: 2,
+    question: "What is the largest ocean on Earth?",
+    options: [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean",
+    ],
+    correctAnswer: "Pacific Ocean",
+  },
+  {
+    id: 3,
+    question: "Who wrote the play 'Romeo and Juliet'?",
+    options: [
+      "William Wordsworth",
+      "William Shakespeare",
+      "Jane Austen",
+      "Charles Dickens",
+    ],
+    correctAnswer: "William Shakespeare",
+  },
+  {
+    id: 4,
+    question: "Which gas do plants absorb from the atmosphere?",
+    options: ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    correctAnswer: "Carbon Dioxide",
+  },
+  {
+    id: 5,
+    question: "What is the hardest natural substance on Earth?",
+    options: ["Gold", "Iron", "Diamond", "Granite"],
+    correctAnswer: "Diamond",
+  },
+  {
+    id: 6,
+    question: "Which country gifted the Statue of Liberty to the USA?",
+    options: ["France", "Germany", "England", "Spain"],
+    correctAnswer: "France",
+  },
+  {
+    id: 7,
+    question: "What is the smallest prime number?",
+    options: ["0", "1", "2", "3"],
+    correctAnswer: "2",
+  },
+  {
+    id: 8,
+    question: "Which element has the chemical symbol 'O'?",
+    options: ["Gold", "Oxygen", "Osmium", "Ozone"],
+    correctAnswer: "Oxygen",
+  },
+  {
+    id: 9,
+    question: "Who painted the Mona Lisa?",
+    options: [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Pablo Picasso",
+    ],
+    correctAnswer: "Leonardo da Vinci",
+  },
+  {
+    id: 10,
+    question: "Which continent is the Sahara Desert located on?",
+    options: ["Asia", "Africa", "Australia", "North America"],
+    correctAnswer: "Africa",
+  },
+  {
+    id: 11,
+    question: "How many bones are there in the adult human body?",
+    options: ["206", "201", "210", "198"],
+    correctAnswer: "206",
+  },
+  {
+    id: 12,
+    question: "Which is the largest planet in our solar system?",
+    options: ["Saturn", "Jupiter", "Neptune", "Earth"],
+    correctAnswer: "Jupiter",
+  },
+  {
+    id: 13,
+    question: "Which instrument measures atmospheric pressure?",
+    options: ["Barometer", "Thermometer", "Hygrometer", "Altimeter"],
+    correctAnswer: "Barometer",
+  },
+  {
+    id: 14,
+    question: "Who discovered penicillin?",
+    options: [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Isaac Newton",
+      "Albert Einstein",
+    ],
+    correctAnswer: "Alexander Fleming",
+  },
+  {
+    id: 15,
+    question: "In which year did World War II end?",
+    options: ["1942", "1945", "1950", "1939"],
+    correctAnswer: "1945",
+  },
+  {
+    id: 16,
+    question: "What is the chemical symbol for gold?",
+    options: ["Ag", "Au", "Gd", "Go"],
+    correctAnswer: "Au",
+  },
+  {
+    id: 17,
+    question: "Which is the fastest land animal?",
+    options: ["Lion", "Horse", "Cheetah", "Leopard"],
+    correctAnswer: "Cheetah",
+  },
+  {
+    id: 18,
+    question: "What is the capital city of Japan?",
+    options: ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    correctAnswer: "Tokyo",
+  },
+  {
+    id: 19,
+    question: "Which organ in the human body purifies blood?",
+    options: ["Heart", "Kidney", "Liver", "Lungs"],
+    correctAnswer: "Kidney",
+  },
+  {
+    id: 20,
+    question: "Which is the longest river in the world?",
+    options: [
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River",
+      "Nile River",
+    ],
+    correctAnswer: "Nile River",
+  },
+];
+
